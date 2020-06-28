@@ -28,9 +28,10 @@ namespace SharpBoy
                 gbw.gameboyWindow.DispatchEvents();
                 gbw.gameboyWindow.Display();
 
+                /*
                 if(_dmgMain.HasInstructionsLeft())
                     Tick();
-
+                */
             }
         }
 
